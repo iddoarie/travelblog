@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `My travel Blog template`,
+    title: `My Travel Blog Template`,
     author: {
       name: `Iddo`,
       summary: `who lives and works in building useful things.`,
@@ -114,12 +114,12 @@ module.exports = {
         short_name: `Gatsby`,
         start_url: `/`,
         background_color: `#ffffff`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
+        // Uncomment this if you want to specify a theme color for the site
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon-48x48.png`, // Updated path for the icon
       },
     },
   ],
 }
+

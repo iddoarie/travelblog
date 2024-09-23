@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "iddo-travel-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Iddo's Travel Blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Iddo <a@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/iddoarie/travelblog/issues"
   },
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.0.17",
@@ -29,16 +29,17 @@
     "gh-pages": "^6.1.1",
     "prettier": "^2.8.8"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://iddoarie.github.io/travelblog",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "travel blog",
+    "iddo"
   ],
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/iddoarie/travelblog.git"
   },
-  {
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -49,6 +50,4 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   }
-}
-
 }
