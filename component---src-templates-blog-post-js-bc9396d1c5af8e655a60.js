@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkiddo_travel_blog=self.webpackChunkiddo_travel_blog||[]).push([[989],{4982:function(e,t,l){l.r(t);var n=l(7294);t.default=e=>{let{data:t}=e;const l=t.markdownRemark;return n.createElement("article",null,n.createElement("header",null,n.createElement("h1",null,l.frontmatter.title),n.createElement("p",null,l.frontmatter.date)),n.createElement("section",{dangerouslySetInnerHTML:{__html:l.html}}))}}}]);
+//# sourceMappingURL=component---src-templates-blog-post-js-bc9396d1c5af8e655a60.js.map
